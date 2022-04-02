@@ -1,5 +1,5 @@
 
-eb init Udagram3 --platform "Node.js 16 AL2 version 5.5.1" --region us-east-1
+eb init Udagram3 --platform node.js-16 --region us-east-1
 eb create --sample Udagram3-env
 
 eb use Udagram3-env
