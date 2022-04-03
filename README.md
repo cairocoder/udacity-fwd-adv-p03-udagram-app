@@ -1,6 +1,6 @@
 # Udagram
 
-[![CairoCoder](https://circleci.com/github/CairoCoder/udacity-fwd-adv-p03-udagram-app.svg?style=svg)](https://app.circleci.com/pipelines/github/cairocoder/udacity-fwd-adv-p03-udagram-app?filter=all)
+[![CairoCoder](https://circleci.com/gh/cairocoder/udacity-fwd-adv-p03-udagram-app.svg?style=svg)](https://app.circleci.com/pipelines/github/cairocoder/udacity-fwd-adv-p03-udagram-app?filter=all)
 
 http://udacity-fwd-adv-p02-storefront-udagram-app.s3-website-us-east-1.amazonaws.com
 
