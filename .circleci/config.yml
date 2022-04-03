@@ -9,7 +9,6 @@ jobs:
             branches:
                 only:
                     - main
-                    - master
         docker:
             - image: "cimg/base:stable"
         steps:
