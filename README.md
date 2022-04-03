@@ -1,6 +1,6 @@
 # Udagram
 
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/?branch=teesloane-patch-5)
+[![CairoCoder](https://circleci.com/github/CairoCoder/udacity-fwd-adv-p03-udagram-app.svg?style=svg)](https://app.circleci.com/pipelines/github/cairocoder/udacity-fwd-adv-p03-udagram-app?filter=all)
 
 http://udacity-fwd-adv-p02-storefront-udagram-app.s3-website-us-east-1.amazonaws.com
 
