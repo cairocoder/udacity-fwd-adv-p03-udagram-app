@@ -1,5 +1,7 @@
 # Udagram
 
+http://udacity-fwd-adv-p02-storefront-udagram-app.s3-website-us-east-1.amazonaws.com/home
+
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
 ## Getting Started
@@ -56,9 +58,9 @@ The e2e tests are using Protractor and Jasmine.
 
 ## Built With
 
-- [Angular](https://angular.io/) - Single Page Application Framework
-- [Node](https://nodejs.org) - Javascript Runtime
-- [Express](https://expressjs.com/) - Javascript API Framework
+-   [Angular](https://angular.io/) - Single Page Application Framework
+-   [Node](https://nodejs.org) - Javascript Runtime
+-   [Express](https://expressjs.com/) - Javascript API Framework
 
 ## License
 
