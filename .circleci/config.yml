@@ -3,12 +3,18 @@ orbs:
     node: circleci/node@4.1.0
     eb: circleci/aws-elastic-beanstalk@1.0.0
     aws-cli: circleci/aws-cli@2.0.2
+workflows:
+    version: 2
+    main:
+        jobs:
+            - build:
+                  filters:
+                      branches:
+                          only:
+                              - main
+                              - master
 jobs:
     build:
-        filters:
-            branches:
-                only:
-                    - main
         docker:
             - image: "cimg/base:stable"
         steps:
